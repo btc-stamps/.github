@@ -12,7 +12,8 @@ Libraries, SDKs, and developer tools for building on [Bitcoin Stamps](https://bi
 |------------|-------------|
 | [**tx-builder**](https://github.com/btc-stamps/tx-builder) | Transaction builder for Bitcoin Stamps & SRC-20 metaprotocols ([NPM](https://www.npmjs.com/package/@btc-stamps/tx-builder) · [JSR](https://jsr.io/@btc-stamps/tx-builder)) |
 | | [![Node.js CI](https://img.shields.io/github/actions/workflow/status/btc-stamps/tx-builder/ci.yml?branch=main)](https://github.com/btc-stamps/tx-builder/actions) [![codecov](https://codecov.io/gh/btc-stamps/tx-builder/graph/badge.svg?token=AWB6I9Z0AQ)](https://codecov.io/gh/btc-stamps/tx-builder) [![npm](https://img.shields.io/npm/v/@btc-stamps/tx-builder.svg)](https://www.npmjs.com/package/@btc-stamps/tx-builder) [![JSR](https://jsr.io/badges/@btc-stamps/tx-builder)](https://jsr.io/@btc-stamps/tx-builder) |
-| **bitcoin-stamps-docs** | Protocol documentation and developer guides — *coming soon* |
+| [**bitcoinstamps.xyz**](https://github.com/btc-stamps/bitcoinstamps.xyz) | Protocol documentation and developer guides at [bitcoinstamps.xyz](https://bitcoinstamps.xyz) |
+| | [![CI](https://github.com/btc-stamps/bitcoinstamps.xyz/actions/workflows/ci.yml/badge.svg)](https://github.com/btc-stamps/bitcoinstamps.xyz/actions/workflows/ci.yml) [![Deploy](https://github.com/btc-stamps/bitcoinstamps.xyz/actions/workflows/deploy-cloudflare.yml/badge.svg)](https://github.com/btc-stamps/bitcoinstamps.xyz/actions/workflows/deploy-cloudflare.yml) |
 
 ### Ecosystem
 
